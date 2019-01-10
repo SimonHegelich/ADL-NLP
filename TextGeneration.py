@@ -17,7 +17,7 @@ learning_rate = 0.001
 batch_size = 200
 epoch = 50
 temperature = 0.8
-SAVE_PATH = '/home/simon/Firma/AI/HegelMachine/HegelPython/logs/TextGen/Rilke/'
+SAVE_PATH = 'logs/TextGen/Rilke/'
 
 
 if not os.path.exists(SAVE_PATH):
